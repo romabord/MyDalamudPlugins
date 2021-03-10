@@ -2,7 +2,7 @@
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest",
-        "Description": "This is an enhanced version of XIVCombo with a variety of new added features. This is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
+        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboExpandedest",
         "AssemblyVersion": "1.0.8.4",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
@@ -14,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615409814"
+        "LastUpdated": "1615420701"
     }
 ]
